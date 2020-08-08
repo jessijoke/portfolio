@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"Jessica Bradham",
+    "description":"I am a front end web developer and designer, I currently use html5, css3, javascript, and react. I use tools such as npm, create-react-app, git and github, and most of the adobe creative suite",
+    "image":"profilepic.jpg",
+    "bio":"In 2007 I went to Kendall College of Art & Design as a Digital Media Design Major, I tested out of many of my lower level design classes and opted to take higher level classes. In doing so I was able to learn outside of my major and ended up taking all of the school's courses in Web Development and Design. In my work as a professional designer, I've used these skills more and more, first having been asked to create ebooks, then multimedia ebooks (read-along, and with embedded video), and interactive ebooks using javascript with drag and drop elements and buttons. Later I was asked to prototype designs for new webpages, and create small web games for the kids visiting our website (including puzzles, painting games, dress up games, etc.) Soon after that I was prototyping our android apps in Unity. It was at this point I realized I was already doing web development professionaly, and I wanted to make it my full time task. All of the projects I was learning and growing as I worked, and I continued this process in my evening hours studying on my own time to improve my skills.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jessijoke@yahoo.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/jessijoke",
+    "project":"https://jessijoke.github.io/pizza/index.html",
+    "address":{
+      "street":"1160 E Hile Rd",
+      "city":"Norton Shores",
+      "state":"Michigan",
+      "zip": "49441"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Kendall College of Art and Design of Ferris State University",
+        "degree":"Bachelors in Fine Arts",
+        "graduated":"June 2011",
+        "description":"I majored in Digital Media Design, but having tested out of at least 5 of the lower level classes (a few of which included interaction design 1, animation 1, digital design for print 1, web design 1, web design 2) I was able to take interactive design 2, web design 3, and web design 4, along with sound design, motion graphics, 3D design, and a couple indepdent studies."
+      }
+    ],
+    "work":[
+      {
+        "company":"School Zone Publishing",
+        "title":"Technical Media Production Specialist & Designer",
+        "years":"November 2011 - Present",
+        "description":"I was hired specifically to assist in fixing a very long list of graphical, video, and audio bugs. Due to my efficiancy and technical knowledge I was able to clear the list entirely, and expand the role to other tasks managaging the previous tasks plus the new ones by myself when the only other person in the same position left. Expanded responsibilities included building ebooks in xhtml, building muiltmedia and interactive ebooks in xhtml, javascript, and json, prototyping webpages using the bootstrap framework, building small web games for the homepage, and prototyping apps."
+      },
+      {
+        "company":"Kendall College of Art and Design",
+        "title":"Adjunct Professor",
+        "years":"Aug 2016 - Aug 2019",
+        "description":"Created curriculums for and taught classes in design and interation, my interaction design class focused on teaching students to design and build their first interactive project using html5 canvas with Javascript."
+      },
+      {
+        "company":"Powerpets Inc",
+        "title":"Lead Artist & Flash Programmer",
+        "years":"Jan 2004 - 2013",
+        "description":"Lead a team of remote artists for a web game, orangized content, created plotlines, drew illustrations, and made flash games."
+      },
+      {
+        "company":"Kendall College of Art and Design",
+        "title":"Student Employement - Kendall Weblab",
+        "years":"January 2011 - June 2011",
+        "description":"Worked as a student employee on the Kendall Weblab managing the student website, updating the layout, organizing and uploading content."
+      },
+      {
+        "company":"iupy.com",
+        "title":"Designer & Developer",
+        "years":"January 2009 - January 2010",
+        "description":"Programmed and illustrated original flash games."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
