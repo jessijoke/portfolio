@@ -121,34 +121,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Pizza Savant",
+        "category":"A responsive website I designed and built for a Pizza Restaurant, complete with a javascript menu, scroll animations, and the Google Maps API embedded.",
+        "image":"pizza-savant.jpg",
+        "url":"https://jessijoke.github.io/pizza/index.html"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Do It Yourself Grooming",
+        "category":"Landing page I designed and built for a restaurant that sells dog grooming supplies and teaches grooming teachniques.",
+        "image":"dog-grooming.jpg",
+        "url":"https://codepen.io/jessica-joy/full/LYENzaa"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Tip Calculator",
+        "category":"My own personal spin on the old school calculator project, a tip calculator that updates as you type.",
+        "image":"tip-calculator.jpg",
+        "url":"https://jessijoke.github.io/javascriptTipCalculator/dist/index.html"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"A History of Cheeseburgers",
+        "category":"An informational webpage with a timeline history of the cheeseburger.",
+        "image":"cheeseburger.jpg",
+        "url":"https://codepen.io/jessica-joy/pen/abzyYgN"
       }
     ]
   }
