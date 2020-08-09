@@ -29,6 +29,14 @@ e. Others
 @import url("fonts.css");
 @import url("fontello/css/fontello.css");
 @import url("font-awesome/css/font-awesome.min.css");
+@font-face {
+   font-family: 't-title';
+   src: url('font-title/tuesdaynight-regular-webfont.woff2') format('woff2'),
+        url('font-title/tuesdaynight-regular-webfont.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+
+}
 
 /* ------------------------------------------------------------------
 /* b. Reset
@@ -176,6 +184,11 @@ p img { margin: 0; }
 p.lead {
    font: 19px/36px 'opensans-light', sans-serif;
    margin-bottom: 18px;
+}
+
+h1 {
+   font-family: 't-title' !important;
+   padding-bottom: 2rem;
 }
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with

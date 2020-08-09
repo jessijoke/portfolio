@@ -89,32 +89,44 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Html",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"css",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"Javascript",
+        "level":"75%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"React",
         "level":"50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Html5 Canvas",
+        "level":"75%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"100%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"100%"
+      },
+      {
+        "name":"Adobe Animate",
+        "level":"100%"
+      },
+      {
+        "name":"After Effects",
+        "level":"100%"
       }
     ]
   },

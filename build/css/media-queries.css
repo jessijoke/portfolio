@@ -59,7 +59,7 @@
 
    /* Resume Section
    ------------------------------------------------------------------- */
-   #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
+   #resume h1 { font: 30px/30px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
    /* Testimonials Section
@@ -112,7 +112,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: #c92e61;
 		position: relative;
       border: none;
       float: right;

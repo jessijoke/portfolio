@@ -33,7 +33,11 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   
+   background-image: url("/images/background2.jpg");
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
    text-align: center;
    overflow: hidden;
 }
@@ -174,7 +178,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fe6928; }
+ul#nav li.current a { color: #c92e61; }
 
 
 /* ------------------------------------------------------------------ */
@@ -241,12 +245,12 @@ ul#nav li.current a { color: #fe6928; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 20px/30px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #0762f9;
+   border-bottom: 3px solid #c92e61;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -417,9 +421,9 @@ ul#nav li.current a { color: #fe6928; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 30px/50px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
-   letter-spacing: 1px;
+   letter-spacing: 2px;
    text-align: center;
    margin-bottom: 48px;
    color: #95A3A3;
@@ -800,7 +804,7 @@ call-to-action .button {
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 20px/30px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #EBEEEE;
@@ -1017,7 +1021,7 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #1abc9c !important;
+   background-color: #c92e61 !important;
 }
 .github-btn{
    background-color: #34495e !important;
