@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Jessica Bradham",
-    "description":"Hi Liz! I am a front end web developer and designer, I currently use html5, css3, javascript, and react. I use tools such as npm, create-react-app, git and github, and most of the adobe creative suite",
+    "description":"I am a front end web developer and designer, I currently use html5, css3, javascript, and react. I use tools such as npm, create-react-app, git and github, and most of the adobe creative suite",
     "image":"profilepic.jpg",
     "bio":"In 2007 I went to Kendall College of Art & Design as a Digital Media Design Major, I tested out of many of my lower level design classes and opted to take higher level classes. In doing so I was able to learn outside of my major and ended up taking all of the school's courses in Web Development and Design. In my work as a professional designer, I've used these skills more and more, first having been asked to create ebooks, then multimedia ebooks (read-along, and with embedded video), and interactive ebooks using javascript with drag and drop elements and buttons. Later I was asked to prototype designs for new webpages, and create small web games for the kids visiting our website (including puzzles, painting games, dress up games, etc.) Soon after that I was prototyping our android apps in Unity. It was at this point I realized I was already doing web development professionaly, and I wanted to make it my full time task. All of the projects I was learning and growing as I worked, and I continued this process in my evening hours studying on my own time to improve my skills.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
