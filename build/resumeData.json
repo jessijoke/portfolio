@@ -16,31 +16,21 @@
       "zip": "49441"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"images/JessicaBradham-WebDev.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jessica-bradham-4a398224/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/jessicabradhamart/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/jessijoke",
         "className":"fa fa-github"
       }
     ]
@@ -60,7 +50,7 @@
         "company":"School Zone Publishing",
         "title":"Technical Media Production Specialist & Designer",
         "years":"November 2011 - Present",
-        "description":"I was hired specifically to assist in fixing a very long list of graphical, video, and audio bugs. Due to my efficiancy and technical knowledge I was able to clear the list entirely, and expand the role to other tasks managaging the previous tasks plus the new ones by myself when the only other person in the same position left. Expanded responsibilities included building ebooks in xhtml, building muiltmedia and interactive ebooks in xhtml, javascript, and json, prototyping webpages using the bootstrap framework, building small web games for the homepage, and prototyping apps."
+        "description":"I was hired to assist in fixing a very long list of graphical, video, and audio bugs. Due to my efficiancy and technical knowledge I was able to clear the list entirely, and expand the role to other tasks managaging the previous tasks plus the new ones by myself when the only other person in the same position left. Expanded responsibilities included building ebooks in xhtml, building muiltmedia and interactive ebooks in xhtml, javascript, and json, prototyping webpages using the bootstrap framework, building small web games for the homepage, and prototyping apps."
       },
       {
         "company":"Kendall College of Art and Design",
@@ -106,7 +96,7 @@
       },
       {
         "name":"React",
-        "level":"50%"
+        "level":"65%"
       },
       {
         "name":"Html5 Canvas",
