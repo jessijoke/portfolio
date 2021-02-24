@@ -123,6 +123,18 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Medigrowth",
+        "category":"A responsive website I designed and built for a Pizza Restaurant, complete with a javascript menu, scroll animations, and the Google Maps API embedded.",
+        "image":"pizza-savant.jpg",
+        "url":"https://jessijoke.github.io/pizza/index.html"
+      },
+      {
+        "title":"Wheel of F",
+        "category":"A responsive website I designed and built for a Pizza Restaurant, complete with a javascript menu, scroll animations, and the Google Maps API embedded.",
+        "image":"pizza-savant.jpg",
+        "url":"https://jessijoke.github.io/pizza/index.html"
+      },
+      {
         "title":"Pizza Savant",
         "category":"A responsive website I designed and built for a Pizza Restaurant, complete with a javascript menu, scroll animations, and the Google Maps API embedded.",
         "image":"pizza-savant.jpg",

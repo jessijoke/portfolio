@@ -53,6 +53,12 @@
         "description":"I was hired to assist in fixing a very long list of graphical, video, and audio bugs. Due to my efficiancy and technical knowledge I was able to clear the list entirely, and expand the role to other tasks managaging the previous tasks plus the new ones by myself when the only other person in the same position left. Expanded responsibilities included building ebooks in xhtml, building muiltmedia and interactive ebooks in xhtml, javascript, and json, prototyping webpages using the bootstrap framework, building small web games for the homepage, and prototyping apps."
       },
       {
+        "company":"Curly Host LLC",
+        "title":"Web Development Intern",
+        "years":"January 2020 - March 2020",
+        "description":"I worked as an intern to help build the initial framework of websites based in Wordpress."
+      },
+      {
         "company":"Kendall College of Art and Design",
         "title":"Adjunct Professor",
         "years":"Aug 2016 - Aug 2019",
@@ -123,6 +129,18 @@
   "portfolio":{
     "projects": [
       {
+        "title":"MediGrowth",
+        "category":"A web application developed to help people track symptoms and medical conditions, and share their journals with physicians. Built using Ruby, Sinatra, Activerecord, Chartkick, Sinatra Flash, and Sass.",
+        "image":"medigrowth.png",
+        "url":"https://www.youtube.com/watch?v=juz9LJxcIYs&t=106s"
+      },
+      {
+        "title":"Wheel of Fortune: CLI App",
+        "category":"A Wheel of Fortune themed game I built to run in the commandline, plays like a one play version of Wheel of Fortune. ",
+        "image":"wheel-of-fortune.png",
+        "url":"https://www.youtube.com/watch?v=TxIDgLMs5To&t=72s"
+      },
+      {
         "title":"Pizza Savant",
         "category":"A responsive website I designed and built for a Pizza Restaurant, complete with a javascript menu, scroll animations, and the Google Maps API embedded.",
         "image":"pizza-savant.jpg",
@@ -145,6 +163,88 @@
         "category":"An informational webpage with a timeline history of the cheeseburger.",
         "image":"cheeseburger.jpg",
         "url":"https://codepen.io/jessica-joy/pen/abzyYgN"
+      }
+    ]
+  },
+  "designportfolio":{
+    "projects": [
+      {
+        "title":"18th Ammendment Ad",
+        "category":"Click to see full image. An ad designed for Design Force Marketing to use for the Restaurant '18th Ammendment'",
+        "image":"../designportfolio/design-18th-ammendment.jpg",
+        "url":"/images/designportfolio/fullimage/design-18th-ammendment.jpg"
+      },
+      {
+        "title":"Paisley Pig Ad",
+        "category":"Click to see full image. An ad designed for Design Force Marketing to use for the Restaurant 'The Paisley Pig'",
+        "image":"../designportfolio/design-PaisleyPIg.png",
+        "url":"/images/designportfolio/fullimage/design-PaisleyPIg.png"
+      },
+      {
+        "title":"Arturo's Tacos Ad",
+        "category":"Click to see full image. An ad designed for Design Force Marketing to use for the Restaurant 'Arturo's Tacos'",
+        "image":"../designportfolio/design-arturos-tacomonday.jpg",
+        "url":"/images/designportfolio/fullimage/design-arturos-tacomonday.jpg"
+      },
+      {
+        "title":"Bellacino's Ad",
+        "category":"Click to see full image. An ad designed for Design Force Marketing to use for the Restaurant 'Bellacino's'",
+        "image":"../designportfolio/design-ballacinos.jpg",
+        "url":"/images/designportfolio/fullimage/design-ballacinos.jpg"
+      },
+      {
+        "title":"Itex Ad",
+        "category":"Click to see full image. An ad designed for Design Force Marketing to use for 'Itex'",
+        "image":"../designportfolio/design-itex.jpg",
+        "url":"/images/designportfolio/fullimage/design-itex.jpg"
+      },
+      {
+        "title":"Smarter Measure Pamphlet",
+        "category":"Click to see full image. A pamphlet design for Smarter Measure.",
+        "image":"../designportfolio/design-smarter-measure.png",
+        "url":"/images/designportfolio/fullimage/design-smarter-measure.png"
+      },
+      {
+        "title":"Ponyo Ad",
+        "category":"Click to see full image. A theater ad promoting a special event.",
+        "image":"../designportfolio/design-theater-event-banner.png",
+        "url":"/images/designportfolio/fullimage/design-theater-event-banner.png"
+      },
+      {
+        "title":"Ponyo Ad",
+        "category":"Click to see full image. A theater ad promoting a special event.",
+        "image":"../designportfolio/design-theater.png",
+        "url":"/images/designportfolio/fullimage/design-theater.png"
+      },
+      {
+        "title":"Alice in Wonderland Theater Poster",
+        "category":"Click to see full image. A poster designed for a school.",
+        "image":"../designportfolio/theater-aliceinwonderland.jpg",
+        "url":"/images/designportfolio/fullimage/theater-aliceinwonderland.jpg"
+      },
+      {
+        "title":"The Diary of Anne Frank Theater Poster",
+        "category":"Click to see full image. A poster designed for a theater company.",
+        "image":"../designportfolio/theater-annefrank.jpg",
+        "url":"/images/designportfolio/fullimage/theater-annefrank.jpg"
+      },
+      {
+        "title":"Death of a Salesman Theater Poster",
+        "category":"Click to see full image. A poster designed for a theater company.",
+        "image":"../designportfolio/theater-deathofasalesman.jpg",
+        "url":"/images/designportfolio/fullimage/theater-deathofasalesman.jpg"
+      },
+      {
+        "title":"God of Carnage Theater Poster",
+        "category":"Click to see full image. A poster designed for a theater company.",
+        "image":"../designportfolio/theater-godofcarnage.jpg",
+        "url":"/images/designportfolio/fullimage/theater-godofcarnage.jpg"
+      },
+      {
+        "title":"The Women of Lockerbie Theater Poster",
+        "category":"Click to see full image. A poster designed for a school.",
+        "image":"../designportfolio/theater-womenoflockerbie.jpg",
+        "url":"/images/designportfolio/fullimage/theater-womenoflockerbie.jpg"
       }
     ]
   }
