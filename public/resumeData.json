@@ -130,9 +130,9 @@
     "projects": [
       {
         "title":"MediGrowth",
-        "category":"A web application developed to help people track symptoms and medical conditions, and share their journals with physicians. Built using Ruby, Sinatra, Activerecord, Chartkick, Sinatra Flash, and Sass.",
+        "category":"Log in as a user with Username: 'patient' Password 'test'. Log in as a Physician with Username 'doctor' Password 'test'. A web application developed to help people track symptoms and medical conditions, and share their journals with physicians. Built using Ruby, Sinatra, Activerecord, Chartkick, Sinatra Flash, and Sass.",
         "image":"medigrowth.png",
-        "url":"https://www.youtube.com/watch?v=juz9LJxcIYs&t=106s"
+        "url":"https://medigrowth.herokuapp.com/"
       },
       {
         "title":"Wheel of Fortune: CLI App",
