@@ -129,6 +129,18 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Air & Space Museum",
+        "category":"(Currently frontend only) A public museum webpage that allows the public to get tickets for the museum attractions, and learn more about the museum.",
+        "image":"airspace-museum.png",
+        "url":"https://jessijoke.github.io/space/"
+      },
+      {
+        "title":"Pokemon Simulator",
+        "category":"A social media style game with the ability to  earn virtual currency, buy items, collect pokemon, create pokemon teams, chat on a forum, add friends, and play a game.",
+        "image":"pokemon-sim.png",
+        "url":"https://medigrowth.herokuapp.com/"
+      },
+      {
         "title":"MediGrowth",
         "category":"Log in as a user with Username: 'patient' Password 'test'. Log in as a Physician with Username 'doctor' Password 'test'. A web application developed to help people track symptoms and medical conditions, and share their journals with physicians. Built using Ruby, Sinatra, Activerecord, Chartkick, Sinatra Flash, and Sass.",
         "image":"medigrowth.png",
