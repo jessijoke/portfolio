@@ -163,22 +163,10 @@
         "url":"https://jessijoke.github.io/pizza/index.html"
       },
       {
-        "title":"Do It Yourself Grooming",
-        "category":"Landing page I designed and built for a restaurant that sells dog grooming supplies and teaches grooming teachniques.",
-        "image":"dog-grooming.jpg",
-        "url":"https://codepen.io/jessica-joy/full/LYENzaa"
-      },
-      {
         "title":"Tip Calculator",
         "category":"My own personal spin on the old school calculator project, a tip calculator that updates as you type.",
         "image":"tip-calculator.jpg",
         "url":"https://jessijoke.github.io/javascriptTipCalculator/dist/index.html"
-      },
-      {
-        "title":"A History of Cheeseburgers",
-        "category":"An informational webpage with a timeline history of the cheeseburger.",
-        "image":"cheeseburger.jpg",
-        "url":"https://codepen.io/jessica-joy/pen/abzyYgN"
       }
     ]
   },
