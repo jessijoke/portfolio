@@ -20,6 +20,8 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
+            <div><a href={projects.github}>View on Github</a></div>
+            <div><a href={projects.github}>View Demo</a></div>
           </div>
         )
       })

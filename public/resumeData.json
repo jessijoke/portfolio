@@ -136,37 +136,49 @@
         "title":"Air & Space Museum",
         "category":"(Currently frontend only) A public museum webpage that allows the public to get tickets for the museum attractions, and learn more about the museum.",
         "image":"airspace-museum.png",
-        "url":"https://jessijoke.github.io/space/"
+        "url":"https://jessijoke.github.io/space/",
+        "github":"https://github.com/jessijoke/space",
+        "youtube":"https://github.com/jessijoke/javascriptTipCalculator"
       },
       {
         "title":"Pokemon Simulator",
         "category":"A social media style game with the ability to  earn virtual currency, buy items, collect pokemon, create pokemon teams, chat on a forum, add friends, and play a game.",
         "image":"pokemon-sim.png",
-        "url":"https://medigrowth.herokuapp.com/"
+        "url":"https://medigrowth.herokuapp.com/",
+        "github":"https://github.com/jessijoke/pokemonsimulator",
+        "youtube":"https://github.com/jessijoke/javascriptTipCalculator"
       },
       {
         "title":"MediGrowth",
         "category":"Log in as a user with Username: 'patient' Password 'test'. Log in as a Physician with Username 'doctor' Password 'test'. A web application developed to help people track symptoms and medical conditions, and share their journals with physicians. Built using Ruby, Sinatra, Activerecord, Chartkick, Sinatra Flash, and Sass.",
         "image":"medigrowth.png",
-        "url":"https://medigrowth.herokuapp.com/"
+        "url":"https://medigrowth.herokuapp.com/",
+        "github":"https://github.com/jessijoke/medigrowth",
+        "youtube":"https://github.com/jessijoke/javascriptTipCalculator"
       },
       {
         "title":"Wheel of Fortune: CLI App",
         "category":"A Wheel of Fortune themed game I built to run in the commandline, plays like a one play version of Wheel of Fortune. ",
         "image":"wheel-of-fortune.png",
-        "url":"https://www.youtube.com/watch?v=TxIDgLMs5To&t=72s"
+        "url":"https://www.youtube.com/watch?v=TxIDgLMs5To&t=72s",
+        "github":"https://github.com/jessijoke/medigrowth",
+        "youtube":"https://github.com/jessijoke/javascriptTipCalculator"
       },
       {
         "title":"Pizza Savant",
         "category":"A responsive website I designed and built for a Pizza Restaurant, complete with a javascript menu, scroll animations, and the Google Maps API embedded.",
         "image":"pizza-savant.jpg",
-        "url":"https://jessijoke.github.io/pizza/index.html"
+        "url":"https://jessijoke.github.io/pizza/index.html",
+        "github":"https://github.com/jessijoke/pizza",
+        "youtube":"https://github.com/jessijoke/javascriptTipCalculator"
       },
       {
         "title":"Tip Calculator",
         "category":"My own personal spin on the old school calculator project, a tip calculator that updates as you type.",
         "image":"tip-calculator.jpg",
-        "url":"https://jessijoke.github.io/javascriptTipCalculator/dist/index.html"
+        "url":"https://jessijoke.github.io/javascriptTipCalculator/dist/index.html",
+        "github":"https://github.com/jessijoke/javascriptTipCalculator",
+        "youtube":"https://github.com/jessijoke/javascriptTipCalculator"
       }
     ]
   },
