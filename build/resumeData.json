@@ -170,13 +170,15 @@
         "image":"pizza-savant.jpg",
         "url":"https://jessijoke.github.io/pizza/index.html",
         "github":"https://github.com/jessijoke/pizza",
+        "youtube":"https://github.com/jessijoke/javascriptTipCalculator"
       },
       {
         "title":"Tip Calculator",
         "category":"My own personal spin on the old school calculator project, a tip calculator that updates as you type.",
         "image":"tip-calculator.jpg",
         "url":"https://jessijoke.github.io/javascriptTipCalculator/dist/index.html",
-        "github":"https://github.com/jessijoke/javascriptTipCalculator"
+        "github":"https://github.com/jessijoke/javascriptTipCalculator",
+        "youtube":"https://github.com/jessijoke/javascriptTipCalculator"
       }
     ]
   },
