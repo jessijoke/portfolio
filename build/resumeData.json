@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Jessica Bradham",
-    "description":"I am a front end web developer and designer, I currently use html5, css3, javascript, and react. I use tools such as npm, create-react-app, git and github, and most of the adobe creative suite",
+    "description":"Software Developer with a background in design, learned to code to meet needs of clients. My extensive experience as a technical designer allows me to bring a unique perspective to the coding tasks I approach.",
     "image":"profilepic.jpg",
-    "bio":"With a background in design, I learned to code in order to meet my clients needs and deliver one stop designed and programmed web apps in my freelance work, without needing to outsource the code. I accepted tasks based on my confidence, and with each project my skill grew along with my ability to take on more complex tasks. When I started as a Technical Designer in 2011 my coding abilities were quickly realized as an asset and I was assigned increasingly complex tasks. My technical design background allows me to bring a unique perspective to the coding tasks I approach.",
+    "bio":"Software Developer with a background in design, learned to code to meet needs of clients. My extensive experience as a technical designer allows me to bring a unique perspective to the coding tasks I approach.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jessijoke@yahoo.com",
     "phone": "555-555-5555",
@@ -191,22 +191,10 @@
         "url":"https://raw.githubusercontent.com/jessijoke/portfolio/master/build/images/designportfolio/fullimage/design-18th-ammendment.jpg"
       },
       {
-        "title":"Paisley Pig Ad",
-        "category":"Click to see full image. An ad designed for Design Force Marketing to use for the Restaurant 'The Paisley Pig'",
-        "image":"../designportfolio/design-PaisleyPIg.png",
-        "url":"https://github.com/jessijoke/portfolio/blob/master/build/images/designportfolio/fullimage/design-PaisleyPIg.png?raw=true"
-      },
-      {
         "title":"Arturo's Tacos Ad",
         "category":"Click to see full image. An ad designed for Design Force Marketing to use for the Restaurant 'Arturo's Tacos'",
         "image":"../designportfolio/design-arturos-tacomonday.jpg",
         "url":"https://github.com/jessijoke/portfolio/blob/master/build/images/designportfolio/fullimage/design-arturos-tacomonday.jpg?raw=true"
-      },
-      {
-        "title":"Bellacino's Ad",
-        "category":"Click to see full image. An ad designed for Design Force Marketing to use for the Restaurant 'Bellacino's'",
-        "image":"../designportfolio/design-ballacinos.jpg",
-        "url":"https://github.com/jessijoke/portfolio/blob/master/build/images/designportfolio/fullimage/design-ballacinos.jpg?raw=true"
       },
       {
         "title":"Itex Ad",
@@ -227,18 +215,6 @@
         "url":"https://github.com/jessijoke/portfolio/blob/master/build/images/designportfolio/fullimage/design-theater-event-banner.png?raw=true"
       },
       {
-        "title":"Ponyo Ad",
-        "category":"Click to see full image. A theater ad promoting a special event.",
-        "image":"../designportfolio/design-theater.png",
-        "url":"https://github.com/jessijoke/portfolio/blob/master/build/images/designportfolio/fullimage/design-theater.png?raw=true"
-      },
-      {
-        "title":"Alice in Wonderland Theater Poster",
-        "category":"Click to see full image. A poster designed for a school.",
-        "image":"../designportfolio/theater-aliceinwonderland.jpg",
-        "url":"https://github.com/jessijoke/portfolio/blob/master/build/images/designportfolio/fullimage/theater-aliceinwonderland.jpg?raw=true"
-      },
-      {
         "title":"The Diary of Anne Frank Theater Poster",
         "category":"Click to see full image. A poster designed for a theater company.",
         "image":"../designportfolio/theater-annefrank.jpg",
@@ -249,12 +225,6 @@
         "category":"Click to see full image. A poster designed for a theater company.",
         "image":"../designportfolio/theater-deathofasalesman.jpg",
         "url":"https://github.com/jessijoke/portfolio/blob/master/build/images/designportfolio/fullimage/theater-deathofasalesman.jpg?raw=true"
-      },
-      {
-        "title":"God of Carnage Theater Poster",
-        "category":"Click to see full image. A poster designed for a theater company.",
-        "image":"../designportfolio/theater-godofcarnage.jpg",
-        "url":"https://github.com/jessijoke/portfolio/blob/master/build/images/designportfolio/fullimage/theater-godofcarnage.jpg?raw=true"
       },
       {
         "title":"The Women of Lockerbie Theater Poster",
