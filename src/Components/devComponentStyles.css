@@ -1,0 +1,15 @@
+.section1Container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.technologies {
+  padding: 0px 100px 0px 100px;
+  color: black;
+}
+
+.projectContainer {
+  padding-bottom: 50px;
+}
+/*# sourceMappingURL=devComponentStyles.css.map */

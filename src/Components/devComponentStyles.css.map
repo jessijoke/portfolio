@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACf,OAAO,EAAE,IAAI;CAChB;;AAED,AAAA,aAAa,CAAC;EACV,OAAO,EAAE,mBAAmB;EAC5B,KAAK,EAAE,KAAK;CACf;;AAED,AAAA,iBAAiB,CAAC;EACd,cAAc,EAAE,IAAI;CACvB",
+    "sources": [
+        "devComponentStyles.scss"
+    ],
+    "names": [],
+    "file": "devComponentStyles.css"
+}
