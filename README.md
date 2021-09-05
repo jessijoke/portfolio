@@ -1,4 +1,6 @@
-# React Nice Resume     
+# Portfolio   
+
+This is my portfolio website, it used to be based on the Nordic Giant template but at this point I've changed so much not a lot of the original code is really in use, so I'm not sure the original readme is relevant. However! I'm leaving it for reference incase something comes up.
 
 ### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
