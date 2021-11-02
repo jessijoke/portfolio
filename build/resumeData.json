@@ -133,6 +133,18 @@
   "portfolio":{
     "projects": [
       {
+        "title":"CultureFit",
+        "category":"(Not Currently Deployed) A website built with React, Redux, and Rails as an API that allows companies to create personality based screener surveys for job applicants, and job seekers to take surveys.",
+        "image":"culturefit.png",
+        "github":"https://github.com/jessijoke/culturefit-front",
+        "youtube":"https://www.youtube.com/watch?v=oPuyAU9sP6Q&t",
+        "technology1": "React, Redux, Redux Thunk, ",
+        "technology2": "Redux",
+        "technology3": "Redux Thunk",
+        "technology4": "React Router",
+        "technology5": "Rails API Backend"
+      },
+      {
         "title":"Air & Space Museum",
         "category":"(Currently frontend only) A public museum webpage that allows the public to get tickets for the museum attractions, and learn more about the museum.",
         "image":"airspace-museum.png",
